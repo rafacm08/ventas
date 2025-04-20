@@ -89,7 +89,7 @@ def send_message(text):
     data = str(text)\
     .encode('utf-8')
     req = urllib.request.\
-        Request("https://ntfy.sh/rafa_1234_demo",  # Use your own link.
+        Request("https://ntfy.sh/your_own_link",  # Use your own link.
         data = data,
         method='POST' )
     with urllib.request.urlopen(req) as r:
