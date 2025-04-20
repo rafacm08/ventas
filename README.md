@@ -22,8 +22,7 @@ Once you have installed the project, simply run it. You can also convert it into
 Thank you for your interest in contributing. To do so, follow these steps:
 
 1. Fork the project.
-2. Create a new branch for your changes:
-   git checkout -b my-new-feature
+2. Create a new branch for your changes.
 
 
 # License
