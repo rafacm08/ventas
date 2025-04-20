@@ -8,11 +8,10 @@ To install this project, follow these steps:
 1. Clone this repository:
     git clone [[https://github.com/rafacm08/ventas]](https://github.com/rafacm08/ventas).git
 
-2. Navigate to the project folder:
-    cd your-repo
-
-3. Install the necessary dependencies:
+2. Install the necessary dependencies:
     pip install requests
+
+3. Open the Python script.
 
 
 # Basic Usage
