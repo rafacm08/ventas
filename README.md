@@ -15,7 +15,9 @@ To install this project, follow these steps:
 
 
 # Basic Usage
-Once you have installed the project, simply run it. You can also convert it into an .exe file.
+Once you have installed the project, simply run it. You can also convert it into an .exe file. If you want to eneable the 
+notification funtion you have to install in your mobile phone the ntfy app, and configure your own server's link and after add
+it to the code.
 
 
 # How to Contribute
