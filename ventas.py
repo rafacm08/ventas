@@ -144,8 +144,8 @@ def process_employee(user_name):
     """
     sales.clear()
     print(f"Hi {user_name}!")
-    product_number = int(float(input("How many products would " \
-    "you like to add to the sales list? ")))
+    product_number = int(input("How many products would " \
+    "you like to add to the sales list? "))
     if product_number <= 0:
         raise ValueError
     while product_number > 0:
