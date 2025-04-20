@@ -6,7 +6,7 @@ This project allows employees of a sales store to calculate commissions for prod
 To install this project, follow these steps:
 
 1. Clone this repository:
-    git clone [[https://github.com/rafacm08/ventas]](https://github.com/rafacm08/ventas).git
+    git clone [https://github.com/rafacm08/ventas](https://github.com/rafacm08/ventas).git
 
 2. Install the necessary dependencies:
     pip install requests
